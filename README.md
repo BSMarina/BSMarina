@@ -8,7 +8,7 @@ Desenvolvedora Full Stack em formação.
 Entusiasta de linguagens migrando das línguas humanas para as computacionais.</div>  
   
 
-- 🌱 Atualmente, estou aprendendo: TypeScript  
+- 🌱 Atualmente, estou aprendendo: TypeScript e Playwright  
   
 
 -  📬 Fala comigo: marina@webnina.com.br  
